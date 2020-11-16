@@ -7,6 +7,6 @@ You Can Find More Info At https://www.cnblogs.com/DLHC-TECH/p/Radio_Controlled_C
 
 UpData Info:
 
-2020.11.16 Fixed verification Bugs, No Tast So Far.
+2020.11.16 Fixed Verification Bugs, No Tast So Far.
 
 /***********************************************************/
