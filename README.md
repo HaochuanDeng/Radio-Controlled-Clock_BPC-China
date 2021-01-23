@@ -9,6 +9,6 @@ UpData Info:
 
 2020.11.16 Fixed Verification Bugs, No Tast So Far.
 
-2021.1.23  Code Had Been tested, And Bugs had been fixed.(You Can Get The Code In Folder: "TestCode".)(Now, EveryThing is OK. Enjoy Please:-))
+2021.1.23  Code Had Been tested, And Bugs had been fixed.(You Can Get The Code In Folder: "TEST_CODE".)(Now, EveryThing is OK. Enjoy Please:-))
 
 /***********************************************************/
