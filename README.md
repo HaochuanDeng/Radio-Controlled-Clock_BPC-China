@@ -11,6 +11,6 @@ UpData Info:
 
 2021.1.23  Code Had Been tested, And Bugs had been fixed.(You Can Get The Code In Folder: "TEST_CODE".)(Now, EveryThing is OK. Enjoy Please:-)
 
-2021.2.23  Add VFD Display code.
+2021.2.23  Add VFD Display code(In Folder 'IV3A').
 
 /***********************************************************/
